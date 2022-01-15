@@ -5,7 +5,7 @@
 
 
 - [Dealing with an unresponsive SME](#dealing-with-an-unresponsive-sme)
-  - [**THE FIRST RULE OF SMOTH COOPERATION**](#the-first-rule-of-smoth-cooperation)
+  - [**THE FIRST RULE OF SMOOTH COOPERATION**](#the-first-rule-of-smoth-cooperation)
   - [Difficult SME is a person like you are.](#difficult-sme-is-a-person-like-you-are)
     - [**Make an appointment**](#make-an-appointment)
     - [**Be prepared**](#be-prepared)
