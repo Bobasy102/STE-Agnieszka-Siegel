@@ -1,6 +1,6 @@
 # Dealing with an unresponsive SME
 
-## **THE FIRST RULE OF SMOTH COOPERATION**
+## **THE FIRST RULE OF SMOOTH COOPERATION**
 ## Difficult SME is a person like you are.
 
 
