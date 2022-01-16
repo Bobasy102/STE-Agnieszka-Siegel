@@ -1,11 +1,11 @@
 # Dealing with an unresponsive SME
 
-## **THE FIRST AND THE SECOND RULE OF SMOOTH COOPERATION**
+## **THE FIRST AND FOREMOST RULE OF SMOOTH COOPERATION**
 ## Difficult SME is a person like you are.
 
 
 - [Dealing with an unresponsive SME](#dealing-with-an-unresponsive-sme)
-  - [**THE FIRST RULE OF SMOOTH COOPERATION**](#the-first-rule-of-smooth-cooperation)
+  - [**THE FIRST AND FOREMOST RULE OF SMOOTH COOPERATION**](#the-first-and-foremost-rule-of-smooth-cooperation)
   - [Difficult SME is a person like you are.](#difficult-sme-is-a-person-like-you-are)
     - [**Make an appointment**](#make-an-appointment)
     - [**Be prepared**](#be-prepared)
